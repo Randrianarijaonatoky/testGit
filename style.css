@@ -1,0 +1,30 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    /* color: white;git */
+    padding: 1rem;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+ 
+.listes{
+    display: flex;
+    gap: 1rem;
+}
+
+.liste{
+    color: white;
+}
+
